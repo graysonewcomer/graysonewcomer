@@ -7,6 +7,8 @@ My primary focus with programming languages lie within:
 - HTML
 - CSS
 
+![this is alt text](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)
+
 I look forward to learning more and would love to collaborate and gain experience on any projects I can!
 
 You can reach me at grayson.newcomer@gmail.com
