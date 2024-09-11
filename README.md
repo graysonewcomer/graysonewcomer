@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Grayson Newcomer</h1>
 <h3 align="center">An aspiring student developer</h3>
 
-- 🌱 I’m currently learning **Node.js, Backend Web-Development, and Java**
+- 🌱 I’m currently cooking up some heat
 
-- 👯 I’m looking to collaborate on **Anything low-leveled to gain experience**
-
-- 💬 Ask me about **The Java programs I've written so far!**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **grayson.newcomer@gmail.com**
 
