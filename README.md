@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Grayson Newcomer</h1>
-<h3 align="center">An aspiring student developer</h3>
+<h3 align="center">Software Engineer at Amazon</h3>
 
 - 🌱 I’m currently cooking up some heat
 
